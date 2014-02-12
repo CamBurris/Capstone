@@ -196,3 +196,37 @@
 		font-size: 1em;
 		margin: 0;
 	}
+	
+/*********************************************************************************/
+/* Our stuff                                                                     */
+/*********************************************************************************/
+form ul li 
+{
+    padding-bottom: 1em;
+}
+
+label 
+{
+    font-size: 1.5em;
+}
+
+input[type="submit"] 
+{
+    background: none repeat scroll 0 0 #282828;
+    border: 0 none;
+    border-radius: 5px;
+    color: #BBBBBB;
+    cursor: pointer;
+    font-size: 1.5em;
+    padding: 0.25em;
+}
+
+input[type="checkbox"]
+{
+	background: #282828;
+}
+
+form ul
+{
+	margin-bottom: 0;
+}

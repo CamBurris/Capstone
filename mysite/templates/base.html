@@ -16,7 +16,8 @@
 		<script src="{% static 'js/config.js' %}"></script>
 		<script src="{% static 'js/skel.min.js' %}"></script>
 		<link rel="stylesheet" href="{% static 'css/style.css' %}" />
-		<link rel="stylesheet" href="{% static 'css/style-desktop.css' %}" />
+		<link rel="stylesheet" href="{% static 'css/style-mobile.css' %}" media="screen and (max-width: 749px)" />
+		<link rel="stylesheet" href="{% static 'css/style-desktop.css' %}" media="screen and (min-width: 750px)" />
 		<noscript>
 			<link rel="stylesheet" href="{% static 'css/skel-noscript.css' %}" />
 			<link rel="stylesheet" href="{% static 'css/style.css' %}" />
