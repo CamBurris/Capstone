@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block title%}Project Detail{% endblock %}
+
+{% block content %}
+
+<h1>{{ project.project_name }}</h1>
+<h2>Teacher: {{ project.teacher_name }}</h2>
+<h3>Subject: {{ project.subject }}</h3>
+<h3>Outlet Needed: {{ project.outlet }}</h3>
+<h3>Abstract</h3>
+<p>{{ project.abstract }}</p>
+
+{% endblock %}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
