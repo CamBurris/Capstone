@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Important Dates{% endblock %}
+
+{% block content %}
+<h1>Important Dates</h1>
+
+{% if date_list %}
+	<ul>
+	{% for date in date_list %}
+		<li><h3>{{ date.date }}</h3><p>{{ date.content|linebreaks }}</p></li>
+	{% endfor %}
+	</ul>
+{% else %}
+	<p>No dates to display.</p>
+{% endif %}
+
+{% endblock %}
