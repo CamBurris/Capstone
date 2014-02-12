@@ -39,6 +39,7 @@ INSTALLED_APPS = (
 	'polls',
 	'project',
 	'dates',
+	'links',
 )
 
 MIDDLEWARE_CLASSES = (

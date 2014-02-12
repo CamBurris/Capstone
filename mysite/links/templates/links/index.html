@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block title %}Links{% endblock %}
+
+{% block content %}
+
+<h1>Links</h1>
+
+{% if link_list %}
+	<ul>
+	{% for link in link_list %}
+		<li><h3><a href="{{ link.link }}">{{ link.display }}</a></h3>
+			{{ link.description|linebreaks }}
+		</li>
+	{% endfor %}
+	</ul>
+{% else %}
+	<p>No links to display.</p>
+{% endif %}
+
+{% endblock %}
