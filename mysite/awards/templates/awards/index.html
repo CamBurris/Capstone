@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Awards{% endblock %}
+
+{% block content %}
+<h1>Awards</h1>
+
+{% if award_list %}
+	<ul>
+	{% for award in award_list %}
+		<li><h3>{{ award.awards }}</h3><p>{{ award.content|linebreaks }}</p></li>
+	{% endfor %}
+	</ul>
+{% else %}
+	<p>No awards to display.</p>
+{% endif %}
+
+{% endblock %}

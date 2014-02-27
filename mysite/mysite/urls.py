@@ -14,4 +14,5 @@ urlpatterns = patterns('',
 	url(r'^project/', include('project.urls', namespace="project")),
 	url(r'^dates/', include('dates.urls', namespace="dates")),
 	url(r'^links/', include('links.urls', namespace="links")),
+	url(r'^awards/', include('awards.urls', namespace="awards")),
 )
