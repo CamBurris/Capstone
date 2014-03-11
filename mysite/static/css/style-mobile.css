@@ -142,7 +142,7 @@
 	.wrapper
 	{
 		padding: 3em 15px 3em 15px;
-		text-align: center;
+		text-align: left;
 	}
 
 		.wrapper-first
@@ -195,6 +195,7 @@
 	{
 		font-size: 1em;
 		margin: 0;
+		text-align: center;
 	}
 	
 /*********************************************************************************/

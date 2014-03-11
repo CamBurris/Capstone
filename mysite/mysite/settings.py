@@ -41,6 +41,7 @@ INSTALLED_APPS = (
 	'dates',
 	'links',
 	'awards',
+	'mysite',
 )
 
 MIDDLEWARE_CLASSES = (
