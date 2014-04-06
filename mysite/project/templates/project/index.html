@@ -4,31 +4,15 @@
 
 {% block content %}
 <h1>Project List</h1>
-<h2><a href="{% url 'project:create' %}">Create a Project</a></h2>
-<br />
 {% if latest_project_list %}
 	{% for project in latest_project_list %}
 		<h2><a href="{% url 'project:detail' project.id %}">{{ project.project_name }}</a></h2>
-		<h3>Subject: {{ project.get_subject_display }}</h3>
+		<h3>Subject: {{ project.subject }}</h3>
 		<p>{{ project.abstract }}</p>
 	{% endfor %}
 {% else %}
 	<p>No projects to display.</p>
 {% endif %}
 
-<div class="pagination">
-    <span class="step-links">
-        <span class="current">
-            Page {{ latest_project_list.number }} of {{ latest_project_list.paginator.num_pages }}.
-        </span>
-		
-		{% if latest_project_list.has_previous %}
-            <a href="?page={{ latest_project_list.previous_page_number }}">previous</a>
-        {% endif %}
-
-        {% if latest_project_list.has_next %}
-            <a href="?page={{ latest_project_list.next_page_number }}">next</a>
-        {% endif %}
-    </span>
-</div>
+<h2><a href="{% url 'project:create' %}">Create a Project</a></h2>
 {% endblock %}

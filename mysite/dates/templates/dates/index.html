@@ -8,7 +8,7 @@
 {% if date_list %}
 	<ul>
 	{% for date in date_list %}
-		<li><h3>{{ date.date }}</h3><p>{{ date.content|linebreaks }}</p></li>
+		<li><h3>{{ date.date }}</h3>{{ date.content|linebreaks }}</li>
 	{% endfor %}
 	</ul>
 {% else %}

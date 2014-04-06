@@ -3,6 +3,10 @@ from django.conf.urls import patterns, include, url
 from django.contrib import admin
 admin.autodiscover()
 
+from contact.forms import ContactForm1, ContactForm2, ContactForm3
+from contact.views import ContactWizard
+from studentProjects.views import index
+
 urlpatterns = patterns('',
     # Examples:
     # url(r'^$', 'mysite.views.home', name='home'),
@@ -15,4 +19,7 @@ urlpatterns = patterns('',
 	url(r'^dates/', include('dates.urls', namespace="dates")),
 	url(r'^links/', include('links.urls', namespace="links")),
 	url(r'^awards/', include('awards.urls', namespace="awards")),
+	url(r'^contact/', ContactWizard.as_view([ContactForm1, ContactForm2, ContactForm3])),
+	url(r'^create/', index.as_view()),
+	#url(r'^book/', index.as_view()),
 )

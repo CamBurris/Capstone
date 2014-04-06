@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}Add Project{% endblock %}
+{% load static %}
+{% block content %}
+<script src="{% static 'js/jquery.formset.js' %}"></script>
+<script>
+	$(function(){
+		$(".inline.{{ student_form.prefix }} table").formset({
+			prefix: "{{ student_form.prefix }}",
+		})
+	})
+</script>
+
+<h1>Add Project</h1>
+<form method="post" action="">
+{% csrf_token %}
+<table>
+	{{form.as_table}}
+</table>
+	<h1>Add Students</h1>
+		{{ student_form.management_form }}
+		{{ student_form.non_form_errors }}
+		{% for form in student_form %}
+			{{ form.id }}
+			<div class="inline {{ student_form.prefix }}">
+				<h3>Add Student {{ forloop.counter }}</h3>
+				<table>
+				<tbody>
+					<tr><th><label>First Name: </label></th><td>{{ form.first_name }}</td><td>{{ form.errors.first_name }}</td></tr>
+					<tr><th><label>Last Name: </label></th><td>{{ form.last_name }}</td><td>{{ form.errors.last_name}}</td></tr>
+					<tr><th><label>Grade: </label></th><td>{{ form.grade }}</td><td>{{ form.errors.grade}}</td></tr>
+					<tr><th><label>School: </label></th><td>{{ form.school }}</td><td>{{ form.errors.school}}</td></tr>
+					<tr><th><label>Address: </label></th><td>{{form.address}}</td><td>{{ form.errors.address}}</td></tr>
+					<tr><th><label>City: </label></th><td>{{form.city}}</td><td>{{ form.errors.city}}</td></tr>
+					<tr><th><label>State: </label></th><td>{{form.state}}</td><td>{{ form.errors.state}}</td></tr>
+					<tr><th><label>Zip: </label></th><td>{{form.zip}}</td><td>{{ form.errors.zip}}</td></tr>
+					<tr><th><label>Phone: </label></th><td>{{form.phone}}</td><td>{{ form.errors.phone}}</td></tr>
+				</tbody>
+				</table>
+			</div>
+		{% endfor %}
+<input type="submit" value="Submit Project" class="submit">
+</form>
+{% endblock %}

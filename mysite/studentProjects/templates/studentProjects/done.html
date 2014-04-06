@@ -4,13 +4,21 @@
 
 {% block content %}
 
-<h1>{{ project.project_name }}</h1>
+<!--<h1>{{ project.project_name }}</h1>
 <h3>Teacher <span style="color: #bbbbbb">{{ project.teacher_name }}</span></h3>
 <h3>Subject <span style="color: #bbbbbb">{{ project.subject }}</span></h3>
 <h3>Outlet Needed <span style="color: #bbbbbb">{{ project.outlet|yesno|capfirst }}</span></h3>
 <h3>Abstract</h3>
 <p>{{ project.abstract }}</p>
 
+{% for form in project %}
+    {{form}}
+	
+{% endfor %}-->
+
+<h1>Project Created</h1>
+<h2><a href="/">Home page</a></h2>
+{{ abstract }}
 {% endblock %}
 
 {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}

@@ -14,11 +14,10 @@
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,600,700" rel="stylesheet" />
 		<script src="{% static 'js/jquery.min.js' %}"></script>
 		<script src="{% static 'js/config.js' %}"></script>
-		<script src="{% static 'js/skel.min.js' %}"></script>
-		<link rel="shortcut icon" type="image/png" href="{% static 'images/favicon.png' %}" />
-		<link rel="stylesheet" href="{% static 'css/style.css' %}" />
+		<script src="{% static 'js/skel.js' %}"></script>
+		<!--<link rel="stylesheet" href="{% static 'css/style.css' %}" />
 		<link rel="stylesheet" href="{% static 'css/style-mobile.css' %}" media="screen and (max-width: 749px)" />
-		<link rel="stylesheet" href="{% static 'css/style-desktop.css' %}" media="screen and (min-width: 750px)" />
+		<link rel="stylesheet" href="{% static 'css/style-desktop.css' %}" media="screen and (min-width: 750px)" />-->
 		<link rel="shortcut icon" href="{% static 'images/favicon.png' %}" type="image/x-icon" />
 		<noscript>
 			<link rel="stylesheet" href="{% static 'css/skel-noscript.css' %}" />
@@ -35,17 +34,14 @@
 		<nav id="nav">
 			<div id="logo"><a href="/">MSEF</a></div>
 			<ul class="container">
-<<<<<<< HEAD
-				<li><a href="#top">Top</a></li>
-				<li><a href="/project/">Project List</a></li>
-=======
->>>>>>> 5096f287da77f4fb528c0777557d1baef69b4ec1
+				<li><a href="/create/">Create Project</a></li>
 				<li><a href="/dates/">Dates</a></li>
 				<li><a href="/links/">Links</a></li>
 				<li><a href="/awards/">Awards</a></li>
-				<li><a href="/project/">Projects</a></li>
-				<li><a href="#top">↑</a></li>
-				<li><a href="#contact">↓</a></li>
+				<li><a href="/contributors/">Sponsers</a></li>
+				<li><a href="/about/">About</a></li>
+				<!--<li><a href="#top">↑</a></li>
+				<li><a href="#contact">↓</a></li>-->
 			</ul>
 		</nav>
 		
@@ -76,6 +72,7 @@
 					<ul id="copyright">
 						<li>&copy; 2014 Cameron Burris</li>
 						<li>MSEF: <a href="http://msefomaha.com">MSEF</a></li>
+						<li><a href="/admin/">Admin</a></li>
 						<li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
 					</ul>
 				</footer>

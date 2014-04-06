@@ -105,11 +105,12 @@ html, body
 
 		form input[type=text],
 		form input[type=password],
+		form input[type=number],
 		form select,
 		form textarea
 		{
 			border: 0;
-			padding: 0.75em;
+			padding: 0.5em;
 			font-size: 1em;
 			border-radius: 8px;
 			background: #282828;
@@ -1011,3 +1012,28 @@ html, body
 		{
 			color: #777;
 		}
+		
+button[type="submit"]
+{
+    background: none repeat scroll 0 0 #282828;
+    border: 0 none;
+    border-radius: 5px;
+    color: #BBBBBB;
+    cursor: pointer;
+    font-size: 1.5em;
+    padding: 0.25em;
+}
+
+.inline label
+{
+	float: left;
+}
+
+th{
+	padding: 1em 0 1em 0;
+	vertical-align: top;
+}
+
+.inline submit{
+	padding: 1em;
+}
