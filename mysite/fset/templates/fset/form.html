@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Inline Formset{% endblock %}
+{% load static %}
+{% block content %}
+<script src="{% static 'js/jquery.formset.js' %}"></script>
+<script>
+	$(function(){
+		$(".inline.{{ book_form.prefix }}").formset({
+			prefix: "{{ book_form.prefix }}",
+		})
+	})
+</script>
+
+<h1>Add Author</h1>
+<form method="post" action="">
+{% csrf_token %}
+<div>
+<table>
+	{{ form.as_p }}
+</table>
+</div>
+<fieldset>
+	<h1>Add Book</h1>
+	<table>
+	{{ book_form.management_form }}
+	{{ book_form.non_form_errors }}
+	{% for form in book_form %}
+		{{ form.id }}
+		<div class="inline {{ book_form.prefix }}">
+			<label>Title: </label>{{ form.title }}
+		</div>
+	{% endfor %}
+	</table>
+</fieldset>
+<input type="submit" value="Add Author" class="submit">
+</form>
+{% endblock %}
