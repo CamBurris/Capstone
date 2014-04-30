@@ -1026,11 +1026,11 @@ button[type="submit"], input[type="button"]
 
 .inline label
 {
-	float: left;
+	
 }
 
 th{
-	padding: 1em 0 1em 0;
+	padding: 10px 0 10px 0;
 	vertical-align: top;
 }
 
@@ -1043,11 +1043,10 @@ table{
 }
 
 input[type=checkbox]{
-	-moz-appearance: none;
 	-webkit-appearance: none;
 	height: 37px;
 	width: 37px;
-	background: #282828 url('../images/checkbox.png');
+	background: #282828;
 	border-radius: 10px;
 	border: 0;
 }
@@ -1057,7 +1056,7 @@ input[type=checkbox]:checked{
 }
 
 #mandatoryForms {
-    background: none repeat scroll 0 0 #FF3640;
+    background: none repeat scroll 0 0 #FE5C5C;
 	margin-bottom: 2em;
 }
 
@@ -1084,6 +1083,29 @@ input[type=checkbox]:checked{
 
 #allForms div, #mandatoryForms div{
 	padding: 10px;
+}
+
+.dynamic-form{
+	float: left;
+}
+
+.submit, .add-row{
+	float: left;
+	clear: both;
+}
+
+article{
+	overflow-y: auto;
+}
+
+td{
+	padding: 10px 10px 0 10px;
+}
+
+th label{
+	position: relative;
+	right: 0;
+	float: right;
 }
 
 @media print{

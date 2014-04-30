@@ -1,0 +1,31 @@
+{% extends "base.html" %}
+
+{% block title%}Forms{% endblock %}
+
+{% block content %}
+
+<h1 class="noPrint">Other Forms To Fill Out</h1>
+
+<h2 class="noPrint">Required Forms for All Projects</h2>
+<div class="noPrint" id="mandatoryForms">
+	{% for form in mandatoryForms %}
+		<div>
+		<h3><a href="{{form.link}}">{{form.name}}</a></h3>
+		<p>{{form.description}}</p>
+		</div>
+	{% endfor %}
+</div>
+
+<h2 class="noPrint">Specialized Forms</h2>
+<h3 class="noPrint">These forms MAY BE REQUIRED for your project</h3>
+<div class="noPrint" id="allForms">
+	{% for form in otherForms %}
+		<div>
+		<h3><a href="{{form.link}}">{{form.name}}</a></h3>
+		<p>{{form.description}}</p>
+		</div>
+	{% endfor %}
+</div>
+{% endblock %}
+
+{% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}

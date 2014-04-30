@@ -136,7 +136,9 @@ person = [wn.synset('student.n.01'),
 	wn.synset('human.n.01'),
 	wn.synset('man.n.01'),
 	wn.synset('woman.n.01'),
-	wn.synset('human.n.01')]
+	wn.synset('human.n.01'),
+	wn.synset('child.n.02'),
+	wn.synset('acquaintance.n.03')]
 animal = wn.synset('animal.n.01')
 pathogen = wn.synset('pathogen.n.01')
 dna = wn.synset('deoxyribonucleic_acid.n.01')

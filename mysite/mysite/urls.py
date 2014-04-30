@@ -23,5 +23,6 @@ urlpatterns = patterns('',
 	url(r'^create/', index.as_view()),
 	url(r'^contributors/', include('contributors.urls', namespace="contributors")),
 	url(r'^about/', 'mysite.views.about'),
+	url(r'^forms/', 'mysite.views.forms'),
 	#url(r'^book/', index.as_view()),
 )
