@@ -11,7 +11,7 @@
 		})
 	})
 </script>
-
+<div class="expand">
 <h1>Add Project</h1>
 <form method="post" action="">
 {% csrf_token %}
@@ -41,4 +41,5 @@
 		{% endfor %}
 <input type="submit" value="Submit Project" class="submit">
 </form>
+</div>
 {% endblock %}
