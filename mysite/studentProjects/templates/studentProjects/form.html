@@ -24,7 +24,6 @@
 		{% for form in student_form %}
 			{{ form.id }}
 			<div class="inline {{ student_form.prefix }}">
-				<h3>Add Student {{ forloop.counter }}</h3>
 				<table>
 				<tbody>
 					<tr><th><label>First Name: </label></th><td>{{ form.first_name }}</td><td>{{ form.errors.first_name }}</td></tr>

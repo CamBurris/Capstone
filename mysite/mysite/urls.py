@@ -21,5 +21,7 @@ urlpatterns = patterns('',
 	url(r'^awards/', include('awards.urls', namespace="awards")),
 	url(r'^contact/', ContactWizard.as_view([ContactForm1, ContactForm2, ContactForm3])),
 	url(r'^create/', index.as_view()),
+	url(r'^contributors/', include('contributors.urls', namespace="contributors")),
+	url(r'^about/', 'mysite.views.about'),
 	#url(r'^book/', index.as_view()),
 )

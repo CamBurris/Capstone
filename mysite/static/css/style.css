@@ -1013,7 +1013,7 @@ html, body
 			color: #777;
 		}
 		
-button[type="submit"]
+button[type="submit"], input[type="button"]
 {
     background: none repeat scroll 0 0 #282828;
     border: 0 none;
@@ -1036,4 +1036,66 @@ th{
 
 .inline submit{
 	padding: 1em;
+}
+
+table{
+	border-spacing: 0;
+}
+
+input[type=checkbox]{
+	-moz-appearance: none;
+	-webkit-appearance: none;
+	height: 37px;
+	width: 37px;
+	background: #282828 url('../images/checkbox.png');
+	border-radius: 10px;
+	border: 0;
+}
+
+input[type=checkbox]:checked{
+	background: url('../images/checkbox.png') no-repeat 0 -37px scroll;
+}
+
+#mandatoryForms {
+    background: none repeat scroll 0 0 #FF3640;
+	margin-bottom: 2em;
+}
+
+#projectInfo{
+	display: none;
+}
+
+#allForms{
+	background: none repeat scroll 0 0 #62FF74;
+}
+
+.rec{
+	background: #7FE3FF;
+}
+
+#allForms, #mandatoryForms{
+	margin-top: 1em;
+	color: black;
+}
+
+#allForms h3, #mandatoryForms h3{
+	margin: 0;
+}
+
+#allForms div, #mandatoryForms div{
+	padding: 10px;
+}
+
+@media print{
+	#nav, .wrapper-style4, #top input, #top h1{
+		display: none;
+	}
+	
+	#projectInfo{
+		display: block;
+	}
+	
+	.noPrint{
+		display: none;
+	}
 }

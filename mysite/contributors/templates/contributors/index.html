@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block title %}Contributors page{% endblock %}
+
+{% block content %}
+<h1>Contributors</h1>
+
+{% if contributor_list %}
+	<ul>
+	{% for contributor in contributor_list %}
+		<li><h3>{{ contributor.contributor }}</h3></li>
+	{% endfor %}
+	</ul>
+{% else %}
+	<p>No contributor to display.</p>
+{% endif %}
+
+{% endblock %}

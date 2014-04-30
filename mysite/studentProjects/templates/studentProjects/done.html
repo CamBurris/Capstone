@@ -16,9 +16,48 @@
 	
 {% endfor %}-->
 
-<h1>Project Created</h1>
-<h2><a href="/">Home page</a></h2>
-{{ abstract }}
+<h1 class="noPrint">Project Created</h1>
+<h3 class="noPrint">Your project has been created!</h3>
+<div id="projectInfo">
+	<h2>Attach this print out with your application fee</h2>
+	<h2>Project Information</h2>
+	<table>
+		<h3>Project Name</h3><p>{{project_name}}</p>
+		<h3>Teacher Name</h3><p>{{teacher_name}}</p>
+		<h3>Subject</h3><p>{{subject}}</p>
+		<h3>Phone</h3><p>{{phone}}</p>
+		<h3>Outleat</h3><p>{{outlet|yesno|capfirst}}</p>
+		<h3>Abstract</h3><p>{{abstract}}</p>
+	</table>
+</div>
+<input type="button" onClick="window.print()" value="Print Project Info" class="noPrint">
+<h1 class="noPrint">Other Forms To Fill Out</h1>
+
+<h2 class="noPrint">Required Forms for All Projects</h2>
+<div class="noPrint" id="mandatoryForms">
+	{% for form in mandatoryForms %}
+		<div>
+		<h3><a href="{{form.link}}">{{form.name}}</a></h3>
+		<p>{{form.description}}</p>
+		</div>
+	{% endfor %}
+</div>
+
+<h2 class="noPrint">Specialized Forms</h2>
+<h3 class="noPrint">These forms MAY BE REQUIRED for your project</h3>
+<h3 class="noPrint" style="color: #7FE3FF">Blue forms are recommend for your project (other forms might still apply)</h3>
+<div class="noPrint" id="allForms">
+	{% for form, rec in otherForms %}
+		{% if rec %}
+			<div class="rec">
+		{% else %}
+			<div>
+		{% endif %}
+		<h3><a href="{{form.link}}">{{form.name}}</a></h3>
+		<p>{{form.description}}</p>
+		</div>
+	{% endfor %}
+</div>
 {% endblock %}
 
 {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}

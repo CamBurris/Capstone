@@ -147,7 +147,7 @@
 
 		.wrapper-first
 		{
-			padding-top: 5em;
+			padding-top: 8em;
 		}
 	
 /*********************************************************************************/
@@ -156,6 +156,7 @@
 
 	#nav
 	{
+		position: absolute;
 	}
 	
 		#nav a

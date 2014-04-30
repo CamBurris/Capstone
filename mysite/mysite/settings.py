@@ -45,6 +45,7 @@ INSTALLED_APPS = (
 	'contact',
 	'studentProjects',
 	'fset',
+	'contributors',
 )
 
 MIDDLEWARE_CLASSES = (

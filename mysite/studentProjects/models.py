@@ -27,3 +27,11 @@ class Student(models.Model):
 	def __unicode__(self):
 		return self.first_name
 	
+class ExtraForm(models.Model):
+	name = models.CharField(max_length=200)
+	link = models.URLField(max_length=200)
+	required = models.BooleanField(default=False)
+	description = models.TextField()
+	
+	def __unicode__(self):
+		return self.name
