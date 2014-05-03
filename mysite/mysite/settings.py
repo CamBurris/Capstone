@@ -36,15 +36,11 @@ INSTALLED_APPS = (
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'polls',
-	'project',
 	'dates',
 	'links',
 	'awards',
 	'mysite',
-	'contact',
 	'studentProjects',
-	'fset',
 	'contributors',
 )
 

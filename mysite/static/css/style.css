@@ -1051,7 +1051,7 @@ input[type=checkbox]{
 	border: 0;
 }
 
-input[type=checkbox]:checked{
+input[type=checkbox]:checked + label{
 	background: url('../images/checkbox.png') no-repeat 0 -37px scroll;
 }
 
@@ -1075,6 +1075,10 @@ input[type=checkbox]:checked{
 #allForms, #mandatoryForms{
 	margin-top: 1em;
 	color: black;
+}
+
+#allForms p, #mandatoryForms p{
+	padding-bottom: 0;
 }
 
 #allForms h3, #mandatoryForms h3{
@@ -1106,6 +1110,43 @@ th label{
 
 .expand{
 	overflow-y: auto;
+}
+
+p{
+	padding-bottom: 1em;
+}
+
+.dynamic-form{
+	position: relative;
+}
+
+.delete-row{
+	background: #282828;
+	border-radius: 5px;
+	padding: 10px;
+	color: #bbb;
+	text-decoration: none;
+	display: block;
+	margin: 10px 0;
+	position: relative;
+	left: 150%;
+}
+
+.add-row{
+	clear: both;
+	float: left;
+	background: #282828;
+	border-radius: 5px;
+	padding: 10px;
+	color: #bbb;
+	text-decoration: none;
+	display: block;
+	margin: 10px 0;
+	float: left;
+}
+
+.delete-row:hover, .add-row:hover{
+	color: white !important;
 }
 
 @media print{

@@ -8,7 +8,7 @@
 {% if award_list %}
 	<ul>
 	{% for award in award_list %}
-		<li><h3>{{ award.awards }}</h3><p>{{ award.content|linebreaks }}</p></li>
+		<li><h3>{{ award.awards }}</h3>{{ award.content|linebreaks }}</li>
 	{% endfor %}
 	</ul>
 {% else %}
