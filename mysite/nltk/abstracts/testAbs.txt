@@ -1,0 +1,14 @@
+The experiment is to find out which type of bridge design is the most efficient. Five bridge designs were
+selected. The beam bridge, arch bridge, truss bridge, stayed bridge and the suspension bridge were loaded and
+then compared to their weight.
+The experimental hypothesis is that the suspension bridge would hold the most weight but most likely weigh
+the most.
+In order to test the bridges, designs had to be selected, materials were gathered and plans were made. First,
+standard roadways were built to make the bridges as similar as possible. Then each bridge design was built to
+support the roadway. The bridges were then brought to Vons to weigh them. The testing started after the
+weighing of the bridges.
+After the testing and reviewing the results the hypothesis was found to be true. The suspension bridge held
+the most weight at 8lb and 12oz, and weighed .16 lb. The truss bridge came in second place by holding 8lb and
+8oz. The surprise was that it weighed .8 lb., half of the suspension bridge. A strength factor was calculated to
+compare the bridge designs. This factor equaled the division of the load carried by the mass of the bridge. The
+truss bridge had the highest strength factor

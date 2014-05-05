@@ -1,0 +1,14 @@
+The objective of my experiment was to find out if garlic has antibacterial properties, and if these
+properties are affected by heating or elapsed time.
+Different strengths of garlic juice in distilled water were made at 0 percent garlic
+juice (control), 25 percent, 50 percent, 75 percent, and 100 percent garlic juice. Two batches of these solutions
+were made. One batch was left at room temperature and one was heated. Paper discs soaked in these solutions
+were placed in agar plates cultured with E. coli. Two plates were cultured for each strength, and each plate had
+three discs. The plates were incubated for twenty-four hours, removed, and any inhibition of bacterial growth
+was recorded. The plates were incubated for another twenty-four hours, removed, and observations were
+recorded again.
+The garlic juice inhibited bacterial growth. The zone of inhibition increased in correspondence with
+the strength of garlic juice. Heating the garlic juice did not affect its inhibitory action. Results remained
+unchanged at forty-eight hours.
+Garlic juice does demonstrate bacterial inhibitory properties, which do not seem to be affected by
+heating or a short period of elapsed time.

@@ -1,0 +1,11 @@
+This experiment is to find out whether the amount of plasmid DNA affect the growth of the E.
+coli on the antibiotic plates and the antibiotic,"sugar" plates. This project is also trying to prove
+if bacteria can be antibiotic resistant. This experiment is to learn about genetic transformation.
+It is to make E. coli K-12 strain: HB101 antibiotic resistant by using plasmid DNA(it is
+benificial to bacteria survival)and to see the colonies by using a piece of DNA(which has a green
+florescent protein)from the jellyfish Aequorea victoria. This can be seen under a florescent
+lamp. The amount of plasmid will effect the growth of the E. coli and will be antibiotic resistant.
+The E. coli was antibiotic resistant with the help from the plasmid DNA. Actually the amount of
+plasmid did not effect the growth of the E. coli. The two loops of plasmid had more effect on
+the E. coli than the thirty-two loops of plasmid. Very weird!! It must depend on how quickly
+the E. coli adapt to the plasmid. That is another theory I need to investigate!

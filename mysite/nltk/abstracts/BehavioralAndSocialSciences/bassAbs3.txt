@@ -1,0 +1,20 @@
+The objective of my experiment was to see how the amount of time after witnessing a crime affected the accuracy of
+eyewitness testimony
+As the amount of time increases after witnessing a crime, the amount of information about the crime accurately
+remembered by the eyewitness will decrease. Also, most witnesses who are interviewed even immediately after seeing the crime
+will not be 100 percent accurate.
+In this experiment, four classrooms of girls (82 girls) were divided into four groups: Group A, Group B, Group C, and
+Group D. Each group was shown a video of a bank robbery from the movie "Bonnie and Clyde". Group A was tested (given
+questions having certain point values) on the robbery immediately after seeing the crime, Group B was tested one day after seei
+ng
+the crime, Group C was tested one week after seeing the crime, and Group D was tested a month after seeing the crime. The poin
+ts
+each group earned for accuracy, lost for inaccuracy, and lost for not knowing information were then calculated and compared.
+Group A, tested immediately after witnessing the crime, had an accuracy rate of 47.762 percent, which linearly decreased
+among the groups as time passed, with Group D, tested one month after witnessing the crime, having an accuracy rate of 24.714
+percent. The inaccuracy rates were about the same for each group. Group A had a rate for unknown information of 40.905 percen
+t,
+which linearly increased among the groups as time passed, with Group D having a rate for unknown information of 62.262 percent.
+These results proved my hypothesis to be correct. The reason eyewitnesses did not remember all of the information of
+the crime was probably due to the passage of time and a lack of attention while witnessing the crime, not allowing all of the
+information to enter or be maintained in long-term memory.

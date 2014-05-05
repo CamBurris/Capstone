@@ -1,0 +1,17 @@
+To determine if the frequency of ultraviolet light-induced sister chromatid exchanges is elevated in cells derived
+from patients with the sum sensitive genetic disease Xeroderma Pigmentosum.
+Cells from normal human, an XP patient, normal Chinese hamster CHO and a UV sensitive CHO mutant line
+were cultured in the laboratory. After irradiation with UV light of 254 nm wavelength, the cells were cultured in medium
+containing bromodeoxyuradine for 2 cell generations. The cells were then harvested from the cultured dish, burst by a
+hypotonic solution and their chromosomes spread on a slide. Under a microscope, the chromosomes were photographed
+and the SCE#s were counted from the photographs.
+Because I had difficulties finding good chromosome spread from the human cells, the professor I was working
+with suggested that I use normal Chinese hamster ovary (CHO) cells and a UV-sensitive CHO mutant (UV-135) as a
+model for the normal human and XP cells. I found that the CHO UV-135 cell line irradiated with 0.5 Joules/meter2 had a
+higher level of SCE#s than normal CHO cells irradiated with 1 or 3 J/m2. The limited data and I have from normal human
+and XP cells do confirm that XP cells have higher levels of UV-induced SCE#s than normal human cells.
+My results with both the UV-sensitive CHO UV-135 cell line and XP cells demonstrated that UV sensitivity is
+associated with increased levels of UV induced sister chromatid exchanges. This is consistent with the hypothesis that cells
+which cannot excise UV-induced pyrimidine dimers from their DNA have difficulties replicating their DNA and that
+SCE#s are a mechanism used by cells to get a copy of DNA free of pyrimidine dimers as a template to complete replication
+of the whole genome.

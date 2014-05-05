@@ -1,0 +1,18 @@
+To determine if the amount of light that a plant receives affects the amount of protein in the leaves of the plant,
+specifically the protein RuBisCO which is the major protein present in leaves. My hypothesis is that plants grown in direct
+sunlight will have more proteins and will grow bigger and stronger.
+I grew six black-eyed bean plants under indentical conditions except for the amount of light that
+they received. Two plants were each exposed to direct light, indirect light, and total darkness. On the twelfth day, I took
+two leaves from each plant to the lab to be analyzed. I punched a 6 mm sample from each leaf and ground them in tubes
+with glass beads and buffer to extract the proteins. Then I spun the tubes in a centrifuge and used the supernatant to
+analyze the protein content by adding a blue colored reagent with a spectrophotometer. To see the individual proteins in
+the samples, I used polyacrylamide gels and the electrophoresis process.
+First, the plants that were exposed to direct sunlight had a higher protein content compared to the other two
+samples. Second, the levels of RuBisCO were clearly decreased in the plants that were in total darkness. Finally, plants in
+direct sunlight were stronger but much smaller than the other plants.
+The results did not completely support my hypothesis. Compared to plants grown in reduced light, plants
+grown in direct sunlight were stronger but were not tall and did not have large leaves even though the protein levels were
+greater. This suggests that the plants that received less light were attempting to adapt in order to survive by structural
+modification and were weak and the leaves were pale in color. I could obtain more information from these studies by
+running more resolving polyacrylamide gels to see differences in other proteins present in the leaves and also by including
+some biochemical assays that would measure the activity of some of these proteins.

@@ -1,0 +1,14 @@
+The objective of this experiment is to determine if concrete is the best material for use as a sound
+barrier, and if not, what is the best material for this purpose.
+Seven different materials were selected to be tested for their effectiveness at both
+blocking and absorbing sound. The tests were done in an isolated environment within a large box. In this box, a
+recording device was placed at one end to provide "white noise", or static, at a constant sound level of 70dB. A
+digital sound level meter was placed at the other end of the box. With these two devices in place, the different
+materials were consecutively arranged within the box, in a manner designed to allow optimal sound blocking and
+absorbing capabilities.
+The results of this experiment showed that acoustical tile is the best sound barrier material out of the
+seven materials tested. The results also showed that concrete, a material very commonly used for freeway sound
+barriers, ranked sixth out of seven materials for this purpose.
+This experiment demonstrated that concrete is not the best material for use as a sound barrier. In
+this study there were in fact several other materials that were more effective as sound barrier materials, which
+suppported my hypothesis.

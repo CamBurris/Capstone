@@ -1,0 +1,12 @@
+The experiment studies the effect of growth rate of plants in a smaller or bigger environment. The
+experimental hypothesis is: plants in big pots will do fine in growth. The plants in the smaller pots
+will be smaller than those grown in regular size pots.
+The study was conducted by first sprouting some seeds. The sprouted seeds were planted in different
+sized pots. Second, the plants were measured everyday. The third step was to record plant
+measurements, room temperature, and the amount of water given. The last step was to dump out the
+pots and observe the roots at the end of the growth period.
+In this study, the plants planted in the smaller pots did just as well as the ones in the bigger pots.
+Regressions were performed to tell if there was a statistical relationship between the pot size and plant
+growth. These regressions proved that pot size is not a good predictor of plant growth. The only
+difference was the roots. The root system on the ones in the big pots had normal sized roots. The
+ones in the middle, had adequate roots. The plants grown in the smaller pots had very small roots.

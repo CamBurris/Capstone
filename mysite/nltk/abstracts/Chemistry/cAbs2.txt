@@ -1,0 +1,25 @@
+The objective was to determine if a quantitative relationship exists between a sunscreen’s absorptivity of uv light and its
+SPF value. Another objective was to determine which functional group of the molecules that are the active ingredients in the
+sunscreens are responsible for the strong absorption of uv light.
+Spectra from 225 nm to 400 nm were taken of solutions of sunscreens with SPF values of 4, 8, 15, 30,
+and 45 to determine absorptivity maxima in this region. Absorptivity maxima of sunscreens were plotted versus the SPF values an
+d
+log of the SPF values. To determine whether a quantitative relationship exists, a statistical analysis by linear regression was
+carried
+out. Spectra were also taken of the active ingredients in sunscreens as well as model molecules with individual functional grou
+ps
+identical to the functional groups in the active ingredient molecules. Spectra intensities were compared to determine which
+functional group is responsible of the strong uv absorption.
+The linear fit of the plot of absorptivity maxima versus SPF yielded a slope of 0.202 g-cm/L with a standard deviation of
+0.073 g-cm/L (36%), and R squared of 0.72, which isn’t very close to the desired value of one. The linear fit of the plot of
+absorptivity maxima versus the log (SPF) yielded a slope of 9.16 g-cm/L, with a standard deviation of 1.50 g-cm/L (16%, much
+closer to the desirable 0%), and an R squared value of 0.93 much closer to one. None of the model molecules (toluene, acetone,
+propanol) absorbed enough uv light to be the functional group causing absorption. A spectrum of para aminobenzoic acid (PABA),
+which combines several functional groups was also taken and showed a strong absorption similar to the active ingredients.
+First, because the linear regression of absorptivity maxima vs. the log of SPF shows a low standard deviation of the
+slope and an R squared really close to 1, a quantitative relationship between the two quantities is demonstrated to exist. As a
+result
+expensive human testing of SPF values could be replaced by spectrometry. Second, PABA proved that the right combination of
+functional groups (benzene ring, carbonyl, and hydroxyl groups) causes strong absorption of uv light similar to that observed i
+n
+sunscreens.

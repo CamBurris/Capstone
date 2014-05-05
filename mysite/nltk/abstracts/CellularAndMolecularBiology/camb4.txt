@@ -1,0 +1,25 @@
+Our experiment was designed to examine the effect of variable Iron (III) concentration on the algae Chlamydomonas
+Reinhardii.
+we expect the photosynthetic rate (represented as a measure of oxygen evolution and chlorophyll yield) of the algal
+sample to rise with a rise in Iron (III) concentration. The rate is expected to rise until the algal solution is over-concentra
+ted with
+Iron (III), at which point it becomes toxic because of an acute demand for macronutrients (making them biolimiting ) and the
+photosynthetic rate drops abruptly.
+The Algae was grown in a controlled environment with florescent light, allowing for both red and blue wavelengths of
+light until it reached maximum yield. The sample was then divided into three # one part with no iron added, one with .5-ppm iro
+n
+added and the last with 500-ppm iron added. The two factors measure were a) Oxygen evolution # measured using a Clarke type
+oxygen electrode) Chlorophyll yield # measured using a spectrophotometer
+In keeping with our hypothesis, it was observed that the sample with no Fe(III) added showed moderate oxygen and
+chlorophyll yield, the second sample with .5-ppm Fe(III) added showed the highest chlorophyll and oxygen yield, and the third
+sample with excess Fe(III) showed minimal yield.
+It was observed that the difference in chlorophyll content between the samples was much greater than the respective
+differences in oxygen. This is explained by the fact that the sample with moderate Fe added, consumed more of the oxygen
+produced in its photosynthesis dark reaction than did the sample with no Fe added. This result further supports our hypothesis
+because it suggests an increase in the Calvin cycle of the algae with added Fe - the increase in the Calvin cycle may directly
+be
+linked to an increase in Photosynthetic Rate. Also, there was a significant decrease in both oxygen and chlorophyll measurement
+s
+for the sample of algae with excess Fe. It was thus concluded from these two results that moderate addition of Iron (III) to al
+gae
+cultures in conducive to greater yield, and that excess concentration of Fe (III) is fatal to algal survival.

@@ -1,0 +1,17 @@
+My project examines how density of various sound proofing materials effects the sound attenuation at a
+number of audible frequencies. Assuming a relationship between frequency and density exists, I will attempt to create a
+single composite that contains three materials, each with a different density to best attenuate one frequency range. I will
+then determine if my inexpensive composite performs better than an expensive and commonly used sound proofing
+material.
+My apparatus consists of a 4#x 4#x2# box with a speaker mounted on one end and a decibel meter placed on the
+other. A frequency generator and an amplifier are hooked to the speaker to make sounds at different frequencies and
+loudness. To measure the attenuation of different samples, the amplifier is calibrated to output 80dB while the box is
+empty. Take a reading after placing a material between the speaker and dB meter. To determine the attenuation, subtract
+the reading from eighty. Repeat for all materials at eight frequencies.
+I predict that density of a material is proportional to frequencies effectively blocked. I believe materials with
+a high density will block low frequencies effectively and materials with a low density will block high frequencies
+effectively. I predict my three-layer composite will perform better at a wide range of frequencies than traditional
+soundproofing material.
+As predicted, density determines which frequencies are effectively blocked. However, higher densities block
+all frequencies well, whereas low density materials only block high frequencies. My composite performed almost as well
+as the acoustical paneling.

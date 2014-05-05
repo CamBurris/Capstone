@@ -1,0 +1,11 @@
+My goal was to take recorded sound waveforms and approximate them with a sum of simple sine
+functions.
+First, I recorded multiple pitches from various musical instruments and devices with a
+digital recording device called a minidisc. I downloaded the sounds onto my computer through the sound card.
+A program allowed me to see and print out the waveforms of my recorded tones. To approximate the
+waveforms, I used a guess-and-check strategy and plugged the estimated sine equations into Maple, an
+advanced math computer program that could graph the equations for me. I compared the graphs against the
+waveforms to check my approximation.
+Visually, I was able to get close to matching 5 of the originally recorded waveforms with sine functions.
+Waveforms with a clear tone can be approximated with a sum of sine functions; however, the
+approximation is difficult using only guess-and-check.

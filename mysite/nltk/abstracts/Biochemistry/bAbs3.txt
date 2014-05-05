@@ -1,0 +1,27 @@
+In my project, I attempt to determine exactly what role hydrogen bonding plays in the formation of the secondary and
+tertiary structures proteins are known to have.
+I decided early on that, to accomplish this objective, I would create a computer program capable of
+accurately simulating the properties of a protein involved in hydrogen bond formation. Thus, my first steps were largely resea
+rch. I
+spent months on the Internet studying information about protein formation, hydrogen bonding, electronegativity, and other relat
+ed
+topics. Then, once I felt I had become sufficiently educated, I set out creating the program. I chose to write the program in t
+he C++
+programming language because its unique object-oriented architecture allowed me to easily construct virtual atoms and molecules
+that I could manipulate and join together within the program. Once the program was finished, I had it simulate many molecules
+ranging from simple amino acids to larger, complete proteins.
+From the data returned by the program, I was able to determine the "hot spots" along the protein that would tend to attract,
+and thus pull the molecule into a specific conformation. In the proteins tested, I saw a very consistent repeating pattern of
+opposite
+charges in atoms along the nitrogen-carbon-carbon backbone. The oxygen double bonded to every third carbon exhibited a highly
+positive charge, while the hydrogen bonded to the succeeding nitrogen exhibited a highly negative charge. These charges were
+easily strong enough to cause a major contortion in the shape of the molecule, if they formed a hydrogen bond. In all the
+polypeptides sampled, ranging from 3 to over 70 amino acids, this was evident.
+After analyzing the repeating pattern of opposite charges, I concluded that it did, undoubtedly, have a substantial
+influence on a protein’s three-dimensional shape. When present in polypeptides of even minimal length, this pattern easily
+supported the formation of an alpha helix or beta-pleated sheet, provided the molecule was flexible enough to allow it. Now,
+since
+I understand that hydrogen bonding along the backbone of a protein influences its secondary structure formation, I can safely s
+ay I
+accomplished my objective, and was hopefully able to move us one step closer towards our goal of predicting a protein’s structu
+re.

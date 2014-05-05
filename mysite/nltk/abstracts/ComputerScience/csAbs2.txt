@@ -1,0 +1,16 @@
+To see the effect of varying the food supply in a simulated population of evolving cellular automata.
+Too little food will cause the creatures to starve. Too much food will lead to overpopulation, and
+the food will all be eaten, again causing the creatures to starve.
+I taught myself the Java(TM) Programming Language using the online tutorials, and with help from
+my father. I then wrote a computer program for the cellular automata.
+Each simulated creature moves around a "universe" looking for food; if it does not find food within a certain
+time, it dies. If two creatures encounter each other, they might produce a new creature. The patterns of
+movement and behavior on encountering another creature are encoded in "genes"; new creatures inherit a mix of
+their parent’s genes, and might also have some mutations.
+The program was run a number of times with a fixed initial population, varying the rate of food supplies.
+The final population size was recorded after each run.
+The results showed that if the rate of food supply was very low, the final population size was very small
+or zero. If the rate of food supply was very high, the final population was also low.
+The food supply affects the population growth as predicted: too little food leads to starvation, and
+too much food leads to overpopulation followed by starvation before the creatures have had time to evolve into
+better food gatherers.

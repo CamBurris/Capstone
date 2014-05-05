@@ -1,0 +1,23 @@
+This project had two objectives. First, to determine the effect of steriochemistry on the reactivity of phosphines with
+singlet oxygen; and second, to determine the mechanism by which phosphine oxidation proceeds.
+This project utilized an excited form of dioxygen, singlet oxygen, to measure the reactivity rate of
+sterically hindered tris(ortho-methoxyphenyl)phosphine and non-sterically hindered tris(para-methoxyphenyl)phosphine, two
+isomers identical except for the placement of the methoxy group. Rate constants were measured in solvents of varying polaritie
+s to
+provide clues as to the polarity of the intermediate involved in phosphine oxidation. Nuclear Magnetic Resonance provided the
+integration data used to calculate the reactivity rate of the phosphines. The molecule triphenylphosphine was also studied.
+The reactivity rate decreased by nine times from the para- to the ortho-isomer #- demonstrating that steric hindrance plays
+a large role in phosphine oxidation. Experiments conducted in various solvents show that non-polar solvents yielded higher
+reactivity rates than polar solvents. In addition, at low phosphine concentrations, the experiment yielded oxidized insertion
+products (insertion of an oxygen atom between a phosphorus and carbon atom) as opposed to the typical phosphine oxide. The
+insertion product was more readily formed in non-polar solvents than in polar solvents following oxidation, demonstrating that
+the
+formation of the insertion product also proceeds via the non-polar, phosphadioxirane intermediate. The higher rate constant of
+the
+para-isomer compared to triphenylphosphine demonstrates that increased electron density about the phosphorus atom increases its
+reactivity with singlet oxygen.
+The steric factor and the electron density about the phosphorus atom play a major role in regulating the rate constant
+at which phosphines react with singlet oxygen. The mechanism involved in phosphine oxidation was shown to be the non-polar
+phosphadioxirane, as opposed to the polar zwitterion. By varying the solvent used and the concentration of the phosphine prese
+nt
+prior to oxidation, the yield of the insertion product and the standard phosphine oxide can be controlled.

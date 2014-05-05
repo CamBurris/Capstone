@@ -1,0 +1,23 @@
+My objective was to learn how a magnet’s size effects magnetic repulsion, and if temperature alters the force.
+To do my experiment I found 6 magnets, each with a different mass. I measured the repulsion
+force between each magnet and my control magnet by sliding them both down a wooden dowel, like sides together (e.g. north to
+north). With Charles Coulomb’s formula, [the mass of magnet 1, times the mass of magnet 2, divided by the distance squared
+between them]I found the exact amount of repelling force.
+I tested my experiment 3 times in each of the following temperatures: 5 degrees C (walk-in-refrigerator), 20 degrees C (ro
+om
+temperature), and 43 degrees C (underneath a heat lamp). I hypothesized that my smallest magnet(35.2g) would have the greatest
+amount of repulsion between it and my control magnet(35.2g). I thought that temperature would not effect repulsion.
+It turned out that my largest magnet(111.5g) consistently had the greatest amount of repulsion between it and my
+control magnet. The smallest magnet had the least amount. Temperature also had an effect on the force. Inside the 5 degree C
+atmosphere there was, consistently, a greater amount of repulsion in each test. In the 20 degree C atmosphere the amount of
+repulsion was the lowest. The measurement of repulsion in the 42 degree C temperature was in-between the other two atmospheres
+.
+My results were the opposite to what I hypothesized. The largest magnet had the greatest amount
+of force, and temperature did effect my results. My results taught me that temperature effects repulsion because the force was
+greater in the cold atmosphere. In my mind, this explains why so many magnetization and mineral mines are in the freezing Nort
+h,
+and why levitating trains are in only the cold regions of Japan. I also learned that size effects force. The larger the magne
+t, the
+greater the force. This is probably why large magnets are used for things like MRI screenings and in televisions. The researc
+h and
+results of my experiment expanded the knowledge of magnetic repulsion and the things that effect it.

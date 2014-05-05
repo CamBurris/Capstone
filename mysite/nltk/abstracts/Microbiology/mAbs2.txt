@@ -1,0 +1,16 @@
+The growth and mutation rate of the yeast (Saccharomyces cervisiae) exposed to UV-C rays for
+varying times was studied. The
+depletion of the ozone is of great importance because the ozone absorbs the most dangerous form of
+Ultraviolet light, UV-C rays. Thus it is important to study the effects this hazardous form of
+Ultraviolet light will have on our own cells. Because of the many similarities between yeast cells and
+human cells, the results from the experiment can be applied to human cells. One group of yeast plates
+was exposed to the UV-C light immediately after being streaked, while a second set was exposed to
+UV-C light two days after being streaked. Within the variable groups each plate within the groups was
+exposed to the UV-C light source for a range of 1 to 4 hours. The control involved the growth of yeast
+in the absence of UV-C irradiation. In observing the first variable group they had a dramatically slower
+growth rate and very different morphology than both the second variable and control. The second
+variable group grew at a slower rate than the control group but at a faster rate than the first variable
+group, maintaining the same morphology as that of the control. As the time exposure within the plates
+of the two variable groups decreased the more colonies of yeast were able to grow. Overall, the data
+shows that the UV-C rays caused some mutation and growth rate inhibition in the yeast colonies
+studied.

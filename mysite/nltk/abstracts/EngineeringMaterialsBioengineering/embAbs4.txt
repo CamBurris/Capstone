@@ -1,0 +1,20 @@
+Project designs an electrode array to manufacture calcium carbonate structures in an oceanic environment,
+and tests various electric currents for their effectiveness in manufacturing.
+The purpose of this experiment was to test the effectiveness of various amounts of electric current (changed through
+the use of resistors) on promoting calcium carbonate build-up in an ocean environment.
+20 anode-cathode apparatus# were created, in 4 sets of 5. Each set contained 5 buckets connected to a
+resistor value of 220-Ohms, 100-Ohms, 150-Ohms, or 56-Ohms. Each apparatus was built out of a square of galvanized
+hardware cloth (cathode) and a 7.5 cm long anode made from stainless steel. Each anode was the same distance from the cathode
+and each apparatus was connected to the resistor (to change the current) and in parallel to a 12-volt power supply. The
+apparatus# were placed in an artificial ocean environment to accumulate calcium carbonate. Levels of accumulation were
+determined by the weight of each assembly.
+The apparatus# connected to the 150-Ohm and 220-Ohm resistors promoted the most calcium carbonate build-up by
+weight, followed by the apparatus# connected to the 56-Ohm and 100-Ohm resistors.
+Calcium carbonate structures are used to reinforce piers, create artificial breakwaters and reefs, and could be used to
+create artificial #floating# islands in the ocean. In previous experiments, cathode shapes and materials were adjusted, as were
+anodes and environments. These experiments showed that build-up occurred in both the artificial ocean environment and a real
+ocean environment. They also showed that the galvanized hardware cloth accumulated more build-up, and did not decompose,
+whereas aluminum screening decomposed after a week in the water. Results indicated a correlation between the reduction
+potentials of the materials used for the anode and the levels of accumulation (materials with higher reduction potentials yield
+greater accumulation). The data suggests that for the most accumulation the current flowing through the apparatus should be a
+small one. This data could be used to enhance our knowledge of the creation of artificial reefs.

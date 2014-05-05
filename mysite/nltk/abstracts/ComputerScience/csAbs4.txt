@@ -1,0 +1,16 @@
+The objective of my experiment is to prove that leaking RAM can affect a computer’s performance when the
+computer is left running for a twenty-four hour period. Leaking RAM occurs when a program fails to remove
+one or more files that it uses (e.g. .dll, .ocx, etc.) from the RAM. Because these files take up space within the
+RAM, other programs will take longer to open because the computer needs to set up a virtual memory file on
+the hard drive, which has a much lower access time than the RAM. From here, the memory available slowly
+"leaks" away as time wears on. This led me to my hypothesis that programs take longer to finish loading after
+memory has leaked from the system. The methods I used to conduct my experiment were as follows: I turned
+my computer on and immediately started to time how long selected programs took to finish loading. I then
+rebooted the computer, opened and closed several programs, attempting to leave a few files in RAM. I left the
+computer on for twenty-four hours and timed again how long the same selected programs would take to load.
+The results came out how I expected them to: the programs that I selected to time would take longer to load
+after twenty-four hours compared to when the system was first booted. This is because when the computer is
+first booted, there is a minimal amount of "leftover" files in the RAM. Identifying the program allocating the
+memory improperly was a simple yet unreliable task: I downloaded an application that would indicate how many
+files (if any) were being left in RAM after shutting a program down. The program leaving the most data in RAM
+would be my "culprit".

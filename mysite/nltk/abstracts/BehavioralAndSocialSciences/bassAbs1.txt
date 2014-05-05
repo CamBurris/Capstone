@@ -1,0 +1,13 @@
+The objective is to determine if different diets positively or negatively affect a mouse#s memory of
+running a maze.
+Three mice were fed with different diets: fats, proteins, and carbohydrates. The fat
+diet consisted of peanut butter and sunflower seeds; the protein diet of dog biscuits and alfalfa blocks; the
+carbohydrate diet of wheat crackers and bread. The mice were tested each night for six nights on one diet. They
+were timed to see how fast they could finish a maze. The maze configuration was changed for each diet so that
+the mice would not build on their previous learning.
+Carbohydrates most significantly and positively affected the memory, followed by protein and fat,
+respectively.
+The hypothesis was supported by the experiment conducted. Carbohydrates promote the entry of
+neurotransmitters into the brain; the more neurotransmitters there are, the easier it is to memorize maze
+patterns. Protein has been shown to be linked to memory in many past experiments. There was no strong
+reason why fat slightly affect memory positively.

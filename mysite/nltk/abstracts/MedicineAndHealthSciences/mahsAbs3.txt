@@ -1,0 +1,14 @@
+The objective of this project was to compare DNA strand damage in sperm of 5 smokers as compared to a
+non-smoker; and of 5 men who were enrolled in a Smoking Cessation Program who either quit smoking or continued to
+smoke.
+Sperm was collected at Time 1, at 6 and 12 weeks after enrolling in a Smoking Cessation
+Program. DNA damage was assessed by a COMET assay, which measured the DNA head intensity, tail length and tail
+moment, which is the ratio DNA head intensity and tail length. DNA strand breakage is usually repaired by the sperm or
+by the egg at fertilization. Sometimes, however, the damage cannot be corrected or is incorrectly repaired thus making an
+abnormality in the offspring.
+Data showed that smokers when compared to a non-smoker had greater DNA strand damage at all time points. In
+addition, smokers who quit smoking when compared to smokers who continued smoking had improved DNA integrity at 6
+and 12 weeks after enrollment in a Smoking Cessation Program.
+These findings suggest that smoking cessation might lead to recovery from smoking-induced
+DNA damage. If improvement in DNA damage does occur when a man stops smoking, this would be important
+information to convey to a smoker who is planning to have a family.

@@ -1,0 +1,26 @@
+My objective was to test my hypothesis that the regular polyhedral dice I was testing (a tetrahedron, an octahedron, a
+dodecahedron, an icosahedron, and a rhombic triacontahedron) would be fair dice and that a non-isohedral pentahedral solid,
+which I predicted would be more likely to land on its larger faces more frequently than its smaller ones, would not be fair. I
+determined if each die were fair by conducting a set number of throws (50 times the number of sides of the die) under the same
+conditions, which I recorded on separate tally sheets, using different colors for each set of ten times the number of sides of
+the
+die. I was then able to determine what values were reached for each increment and enter those data into a spreadsheet that I ha
+d
+set up to calculate the chi-square values. Next, I calculated the confidence percentages and confidence intervals for each set
+of
+rolls. I believed that if the chi-square values reached a confidence level of 95% for a given die, it could be considered fair.
+The
+results of my experiment showed that the tetrahedron, the octahedron, and the dodecahedron are fair dice with confidence
+percentages of 96%, 97%, and 99.3%, respectively. The confidence percentage for the icosahedron only reached 92.4%, and
+dropped to 11.8% for the final set of rolls. Values for five of the twenty sides were outside the confidence interval for all s
+ets of
+rolls. The confidence percentage for the triacontahedron was 4.7%. Two opposing sides of this die were rolled a greater number
+of times than the other faces and two other opposing faces were rolled a smaller number of times than the other faces. For the
+non-isohedral pentahedron, the three larger faces of the five were rolled a greater number of times than the smaller faces. The
+confidence percentage for the non-isohedral pentahedron was 0%. I concluded that the regular tetrahedron, octahedron, and
+dodecahedron are fair dice. Although research shows that these, as well as the regular icosahedron and the rhombic
+triacontahedron are fair dice (based on Euler’s Equation), the particular dice I tested are not fair, possibly due to manufactu
+ring
+flaws. The non-isohedral pentahedron is not a fair die because the faces are not identical. Because the faces have different sh
+apes
+and surface areas, the solid landed on the large rectangular faces more frequently than the small triangular ones.

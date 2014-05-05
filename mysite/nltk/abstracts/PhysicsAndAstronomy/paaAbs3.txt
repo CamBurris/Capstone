@@ -1,0 +1,18 @@
+My goal in this project was to find the energy of alpha particles through observation of their tracks as seen in a
+cloud chamber.
+To find the energy of the alpha particles, I first built a diffusion cloud chamber. The current
+chamber is the third I have built in the course of this experiment. The sponges in the top of the chamber are saturated with
+Methyl alcohol and pellet dry ice is placed underneath. An alpha source of Polonium-210 was placed inside. Once the
+bottom temperature reached approx. -30 degrees C, tracks began to form in the layer of sensitivity. The tracks were then
+photographed with a digital camera and enhanced on a computer with a graphics package. Once printed out, I measured
+the tracks with a ruler included in the photograph and recorded the results. 75 tracks in some 40 photographs were used as
+data. The median track length was calculated and the particle energy determined using a graph from W.A.Bethe.
+The median track length was 20 cm. Baed on the work of Bethe, alpha particles having this as range would have
+an energy of 3.5 MeV.
+The proven energy of alpha particles emmitted by Polonium-210 is 5.5 MeV. My results are considerably
+lower than this. There are two likely resons for this. First, if the particle’s path is upward, the track would be shorter th
+an
+the range of the particle because it would leave the layer of sensitivity. Second, I cannot be sure of the exact location of
+the point on the source needle where the particle is emmitted. So while the energy of alpha particles can be determined
+from their track length, the chamber used must be capable of showing tracks for their entire range. I’m still thinking about
+how to do that

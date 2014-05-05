@@ -1,0 +1,11 @@
+Our objective was to develop a test that would be able to induce false memories into the
+participants of our experiment. We wanted to study how people are able to convince themselves
+that they saw or experienced something they did not. We used a list of twelve words, which
+were all related to another "key" word from the lists that were made. We told the participants to
+study the list, and then gave them a "test" on what they remembered. This test included several
+words from the list, several unrelated words, and the "key" word from which the lists were
+produced. We asked them to chose those words that were on the first list, and give how
+confident they were of their answers, on a scale of 1-5 next to their answers. We successfully
+generated lists that were able to repeatedly show evidence of false memories, however for
+further study we are currently studying the differences in these results between sex and age
+groups.

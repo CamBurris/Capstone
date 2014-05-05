@@ -1,0 +1,16 @@
+This project endeavors to study changes in the values of the integral from 0 to a of cx^n , as one of
+the parameters a, c, or n, change as the other two remain fixed. That is, how will the integrals, from zero to
+some constant a, where a is a natural number, of the nth order monomial, cx^n, where c and n are also natural
+numbers, change, (I) as c increases from 1 to 10, with a and n fixed, (II) as n increases from 1 to 10, with c and
+a fixed, (III) as a increases from 1 to
+10, with c and n fixed, and (IV) as both n and a change, with c fixed at 1?
+1)We used the definite integral feature of TI-83 Plus to find a number of definite integrals. We
+observed how the values of the integrals changed as a, c, and n were changed and looked for a pattern. 2) Using
+Microsoft Excel and its formula features we were able to create the sub-cases presented here. After having
+Excel calculate the definite integrals, we used the TI-83 Plus again to confirm that the numbers attained were
+indeed the correct integrals for the given nth order monomials. 3) Using algebra and calculus we found what the
+general difference between two concurrent integrals was. The validity of the formulas was confirmed by
+plugging in values and comparing them to the numerical data that we attained from Excel and the TI 83 Plus.
+As a result of this study it was determined that the concurrent values of the integrals do in fact
+exhibit patterns, though they may be hard to see. The formulas for these differences can be used to find other
+integrals in the family, without actually using integration techniques.

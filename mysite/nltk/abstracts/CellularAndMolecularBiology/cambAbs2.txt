@@ -1,0 +1,12 @@
+The researcher conducting this project wanted to find if essential genes were better conserved
+through evolution than non-essential genes using a series of database inquiries to compare
+genetic makeup of genes and related how well they have been conserved in other organisms to
+their function and how this relates to their conservation.
+The series of database inquiries involved using sources such as BDGP (Berkeley Drosophila
+Genome Database) to find the amino acid sequences and functions of certain Drosophila genes.
+The amino acid sequences of these Drosophila genes in the zeste-white chromosomal region
+were used and compared to those of other mapped organisms such as mus musculus and Homo
+sapiens as well as realizing that observed functions that have been seen in humans occur in
+Drosophila and mice as well as sharing a set of strikingly similar amino acid sequences.
+Mostly essential genes were found to be conserved and the researcher is still to chart the data
+and repeat the process before anything could be concluded.

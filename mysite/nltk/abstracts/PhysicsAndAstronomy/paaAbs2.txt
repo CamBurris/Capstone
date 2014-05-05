@@ -1,0 +1,15 @@
+The purpose of this experiment was to find out how long it takes the Sun to rotate. My hypothesis was that
+the rotation of the Sun would take 23 to 28 days at its equator, and sunspots would be visible for no longer than
+14 days at its equator and 16 days at its poles.
+A reflecting telescope was used to focus an image of the Sun onto a cardboard screen. A picture of the
+image of the Sun was then taken with a digital camera. This procedure was repeated 23 times over a period of
+about 6 weeks. The paths of the sunspots were traced on transparency paper, and the latitude and longitude of
+each sunspot on each day were measured. This information was entered into an Excel spread sheet. The change
+in longitude was used to calculate the rotation per day in degrees. The time it would take for the Sun to make a
+complete rotation was then calculated.
+The average rotation rate of the sunspots per day was 13.7 degrees. From this the average rotation period of
+the Sun would be 26.6 days. The slowest moving sunspot averaged 11.0 degrees per day. At that rate, the Sun
+would take 34.7 days to rotate. The fastest moving sunspot averaged 16 degrees per day. At that rate, the Sun
+would take 22.5 days to rotate. No relationship was observed between rotation rate and sunspot latitude for
+latitudes between plus and minus 30&#61616;. This experiment suggests the Sun does not rotate at a constant
+rate, but it is hard to distinguish between Sun rotation rate changes and measurement error.

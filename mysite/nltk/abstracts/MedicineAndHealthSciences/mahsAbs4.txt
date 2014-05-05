@@ -1,0 +1,14 @@
+Stereotypy and Locomotor Activity test were performed using mouse strains NR1flox +CR1cre
+(mutants) and NR1flox-CA1cre (wild-type) to determine whether there is a significant difference
+of response to N-menthyl#D-asparate (NMDA) antagonist MK-801 and the antipsychotic agent
+clozapine. Reduced levels of NMDA receptors located in the brain are linked to the positive
+symptoms of schizophrenia such as delusions, hallucinations and disorganized behavior.
+Clozapine antagonizes the MK-801 induced activities in both #mutant# (reduced amount of
+NMDA receptors in the hippocampus) and #wild type# mice (do not lack NMDA receptors).
+The behavior seen in the #mutant# mice for the stereotypy counts supports the hypothesis that
+NMDA receptors are linked to schizophrenia and that the hippocampus is significant as well. If
+the hippocamptal region is linked to schizophrenia then there will not be an increase or
+exacerbation of behavior when mutants are given NMDA antagonist. However the data from
+the locomotor activity experiments show that there is an increase or exacerbation of activity for
+mutant mice when given MK-801; thus suggesting that schizophrenia is not directly a result of a
+decrease in NMDA receptors in the hippocampus but has other origins as well.

@@ -1,0 +1,15 @@
+My project is to see if my energy consumption can be offset by the sources falling in 20 sq. m. of my back yard.
+This is a continuation of my project from Spring 2000. The purpose of that project was to calculate if I could
+use compressed air as an energy storage medium. That was feasible, so I continued collecting data on energy
+demand and supply for the entire year. I collected data on solar energy using a photovoltaic cell and a solar
+powered Sterling engine; on wind energy using an anemometer; on rain energy using a rain gauge. These were
+recorded every 15 minutes for 14 months. I logged my personal energy consumption for 1 week each month. I
+calculated the theoretical total energy based on the sum of:
+Wind turbines for wind energy,
+Solar panels for photovoltaic sun energy,
+Sterling engines for thermal sun energy,
+A water turbine for rain falling on my roof.
+Each device was scaled from the collected data.
+From last year, I knew that there would be surplus energy times and deficit times and that energy storage is
+necessary. My new data confirmed that compressed air pumped storage is still feasible and led me to a startling
+conclusion on my energy self-reliance.

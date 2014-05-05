@@ -1,0 +1,36 @@
+Nonhuman Vertebrate Animal
+
+
+from nltk.corpus import wordnet as wn
+from nltk.corpus import NOUN
+
+wn.synsets('dog')
+d = wn.synset('dog.n.01')
+d.hypernyms()
+
+for h in d.hypernyms():
+	if h == invertebrate:
+		print True
+		
+inv = wn.synset('invertebrate.n.01')
+vert = wn.synset('vertebrate.n.01')
+
+b = d.hypernym_distances()
+
+def HasVertebrate(word_list):
+	for word in word_list:
+		if IsVertebrate(word):
+			return True
+	
+	return False
+
+def IsVertebrate(word):
+	d = wn.synset(word, NOUN)[0]
+	b = d.hypernym_distances()
+	for h in b:
+		if h[0] == inv:
+			return False
+		elif h[0] == v:
+			return True
+
+	return False

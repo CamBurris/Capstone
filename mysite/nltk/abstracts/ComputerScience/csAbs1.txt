@@ -1,0 +1,16 @@
+My goal was to write a computer program that would allow the sending of files and messages, and open chat over
+a loca area network. It had to simple enough for children and adults with no computer experience to use. It had to operate
+without a fixed server. Finally, it had to have a password protection system in place that could be used when security was
+necessary.
+Network Intercomm (NIC) is written in the C++ programming language using the Microsoft Foundation
+Classes and many classes that I wrote myself. It makes use of Windows Sockets which provide a fast and efficient way to
+transfer information without requiring the sharing of hard drives. All data transfer is run through a single socket in the
+main thread.
+NIC has been tested on multiple LANs and is in use at First Christian Academy in Columbus, Ohio. It works
+better than I had ever expected. It works equally well on Windows 95, 98, and 2000. I’m fairly certain it will also work on
+NT, although that remains to be tested. It is simple and intuitive to use, even without reading the help file. It also comes
+complete with an easy to use installer. All aspects of the program are functioning perfectly.
+NIC may not have all the features of Microsoft Exchange, but it has enough to suit the average person’s
+needs. The lack of complexity has the advantage of making NIC simple and easy to use. It works very well on a small
+LAN. Each computer is a single node, separate from the rest of the network. There is no server, and there are no clients.
+This makes NIC a better choice for small LANs, many of which don’t have servers running all the time.

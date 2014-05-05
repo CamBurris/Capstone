@@ -1,0 +1,14 @@
+The purpose of this project was to develop a better compression algorithm suitable for wireless and
+handheld devices as well as the Internet.
+A new lossless data compression algorithm, LZAC, was derived from the widely used
+LZ77 family. LZAC presents two new concepts: composite fixed-variable-length coding and offset-difference
+coding. Composite fixed-variable-length coding combines fixed-length coding and variable-length coding into a
+single coding scheme. Offset-difference coding removes the redundancy in offset coding from LZ-based
+compression. LZAC was developed in C and its performance was benchmarked in an 8-Kbyte sliding window
+using Bell#s Calgary Corpus.
+The results showed that LZAC achieved an average compression ratio of 3.02 bits per character (non-
+weighted), which is the equivalent of reducing a file size by more than 62 percent.
+LZAC#s compression ratio significantly outperforms that of the LZ77 family while still retaining
+the key LZ77 characteristics. It is simple, and fast in decoding; it is adaptive, and economical in terms of
+memory consumption; and it is universal. In addition, its two new concepts can be applied to compression
+algorithms in other families. Future research may explore this possibility.

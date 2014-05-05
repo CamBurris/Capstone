@@ -1,0 +1,22 @@
+In our project, we attempted to compare a standard method of protein and protein digestion observation (running
+electrophoresis gels) with a new proprietary method developed by Signature BioScience, multi-coupling spectroscopy, by
+characterizing digestions of both HSA and fibrinogen using each method.
+We prepared the protein solutions by buffering our protein samples in phosphate-buffered saline (PBS).
+We then prepared protease solution by buffering crude protease in hydrochloric acid (HCL). For electrophoresis, we prepared 8
+time-lapse protein digestion solutions, stopping digestion after intervals of 0, 1, 2, 5, 10, 30, 60 minutes and overnight usin
+g 2-
+mercaptoethanol. We then ran SDS-PAGE electrophoresis gels with the samples and a lane for a molecular weight ladder. For
+multi-coupling spectroscopy, we loaded a 200ul "plug" of protein solution over the resonator to establish a baseline, and then
+mixed
+2ul of protease solution with another 200ul of protein solution and loaded that plug over the resonator. We then collected data
+at
+60-second intervals until the digestion had appeared to have stopped.
+We obtained successful results for both procedures using both proteins. The time-lapse electrophoresis gels show the
+protein being digested into smaller and smaller polypeptide fragments over time, while the MCS graphs depict the changing
+dielectric properties and spectroscopy resonances.
+While the standard time-lapse electrophoresis gel method provides valuable (if not precise) information regarding the
+size of the polypeptide fragments, MCS has much more to offer. Not only does it allow for quicker experiments and the use of
+proteins in their native solutions, but the results are more precise, in the form of spreadsheets with exact numbers that can
+be
+manipulated easily after an experiment. Also, different types of measurements are recorded, such as the changing spectroscopy
+curve and the dielectric properties graph.

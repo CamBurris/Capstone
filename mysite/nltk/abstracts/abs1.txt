@@ -1,0 +1,10 @@
+The purpose of this project was to determine the magnet size, vehicle size, power requirements,
+and others factors necessary to propel a model car with electromagnets. It was possible to propel a model car with a weight of 230 grams and a length of 17.75 centimeters
+using electromagnets constructed of bolts 5/8 of an inch in diameter and 3 inches in length (metric
+measurements would be inaccurate in this case), wound with 24-gauge wire and powered by 12 volts and 2.5
+amps. The metal strip on the bottom of the car needed to be about 1.5 centimeters from the magnets. It was
+possible to propel the car only if the magnets were #fired# at the right speed using a hand-powered switch.
+With smooth firing, acceleration increased from one magnet to the next It is possible to propel a model car smoothly using electromagnetic propulsion, given the
+right conditions. #Firing# the magnets via computer might be a way to get the vehicle to move reliably and at a
+constant speed. Because acceleration can increase from one magnet to the next, if firing of the magnets
+could be automated, this propulsion system could be used to launch model airplanes.

@@ -1,0 +1,15 @@
+To determine whether if you can decrypt messages done with a one-time pad (an encryption key
+using a randomizing algorithms which is designed to be used only once) if you have 2 messages sent with the
+same set of letters.
+You will need one computer, a program to encrypt messages with a one-time pad (I used the
+Solitaire Algorithm), and 2 messages encrypted with the same key. I developed a program for file subtraction
+reasoning that I could use it to get the guessed key from one message, which would be tested, on the other
+message. That would enable me to decrypt the message
+You can decrypt messages sent with a one-time pad if the sender makes the mistake of using the one-
+time pad twice
+The most modern form of encryption, quantum cryptography, stems from the one-time pad. This is
+the most secure form of encryption because trying to test every key will generate every sensible message of the
+message#s length making it impossible to tell which is the right one. The total number of messages for 15 letters
+is 1*10^12 messages of which a third would probably be sensible to a computer screening program designed to
+detect the most frequent letters and digraphs, assuming you have the right language. However all of this work
+does not need to be done if the mistake is made of using the one time pad twice.
